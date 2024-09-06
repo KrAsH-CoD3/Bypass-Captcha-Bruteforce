@@ -5,7 +5,7 @@ import itertools
 
 """  
 NOTE:   Generating a password character length more than 3 from 'char' 
-        may possibly run out of memory and maybe crash code. 
+        may possibly run out of memory and maybe crash code cus of it possible outcome(need more memory). 
         
         SIMPLE MATH ;) 
 """
